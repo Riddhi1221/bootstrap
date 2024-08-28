@@ -1,0 +1,42 @@
+/* hero */
+.dots {
+    position: absolute;
+    width: 80%;
+    height: 103%;
+}
+.dots:before {
+    z-index: -1;
+    right: 0;
+    -webkit-transform: translateX(60%);
+    -ms-transform: translateX(60%);
+    transform: translateX(60%);
+    position: absolute;
+    content: "";
+    width: 304px;
+    height: 264px;
+    background: url(https://images.vexels.com/content/157944/preview/dots-grid-design-37d7ed.png) right top;
+}
+.span
+{
+    font-size: 60px;
+}
+.p{
+    font-size: 17px;
+}
+/* services */
+.heading {
+    font-family: "Nunito", sans-serif;
+    font-size: 38px;
+    color: #000000;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+.hov:hover  img{
+    background-color: aqua;
+    z-index: 999;
+}
+.img-shadow {
+    border: 10px solid #ffffff;
+}

@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.bg{
+    background-image: url(	https://preview.colorlib.com/theme/marco/img/hero-bg.jpg);
+    background-size: cover;
+}
+hr {
+    margin: 0%;
+    color: rgb(223, 224, 225);
+}
+.mb1{
+    margin-bottom: 180px;
+}
+.bg-w{
+    background-color: rgb(244, 244, 244);
+}
+.p{
+    padding: 20px;
+    display: block;
+    border-radius: 10px;
+}
+.menu{
+    background: #fff;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 20px;
+}
+.b-i{
+    background-image: url(	https://preview.colorlib.com/theme/marco/img/reservation-bg.jpg);
+    background-size: cover;
+}
+.form-wrap {
+    background: #fff;
+    padding: 100px 90px;
+}
+.form-control{
+    border-radius: 12px;
+    margin-bottom: 15px;
+    width: 373px;
+    border-color: #eeeeee;
+    font-size: 15px;
+    padding: 0.575rem 0.75rem;
+    color: #b5b4b4;
+}
+.primary-btn {
+    background: #f42f2c;
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+}
+.form-select {
+    height: 40px;
+    width: 100%;
+}
+option {
+    display: block;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+    white-space: nowrap;
+}
+.rel{
+    position: relative;
+    z-index: 999;
+}
+.over{
+    position: absolute;
+    /* background-color: rgb(235, 233, 233); */
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    /* z-index: 1; */
+}
+.overlay-bg {
+    background: rgba(17, 22, 24, 0.75);
+}
+.img-s{
+    background-size: cover;
+}
+.img img{
+    border-radius: 100%;
+}
+.date {
+    background-color: #000;
+    color: #fff;
+    font-weight: 100;
+    padding: 8px 15px;
+    width: 115px;
+    text-align: center;
+}
+.container .card .img1{
+    overflow: hidden;
+}
+
+.card img{
+    width: 100%;
+    transition: all 0.3s ease 0s;
+}
+.zi1:hover img{
+    transform: scale(1.1);
+}
+.card
+{
+    padding: 0;
+    border-radius: 10px;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+.hr-list li {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(238, 238, 238, 0.3);
+}
+.number {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.position{
+    position: absolute;
+    right: 4px;
+    bottom: 0px;
+    color: #fcfbfb;
+}
+.btn{
+    padding: 9px 12px;
+}
